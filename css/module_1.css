@@ -1,0 +1,61 @@
+.fbox{
+    display:flex;
+    background-image: url("top-banner.png");
+    background-repeat: no-repeat;
+}
+.fbox2{
+    display:flex;
+}
+.image{
+    border-radius: 50px;
+    margin-left: 50px;
+    margin-bottom: 50px;
+}
+.fitem4{
+    margin-right: 50px;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+
+.fitem2{
+    width: 60%;
+    margin-right: 50px;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+.fitem1{
+    margin-left: 50px;
+}
+h1{
+    font-size: 50px;
+}
+.m{
+    color: aquamarine;
+}
+
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0px;
+}
+img{
+    width: 600px;
+}
+.button{
+    color: aliceblue;
+    font-weight: 700;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: none;
+    background-color:rgb(0, 238, 255);
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+.button2{
+    color: aliceblue;
+    font-weight: 700;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: none;
+    background-color:rgb(0, 238, 255);
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+
